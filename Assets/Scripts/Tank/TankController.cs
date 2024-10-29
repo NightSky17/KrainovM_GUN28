@@ -103,13 +103,13 @@ namespace Tanks
             _wheels[0].SteerAngle = angle;
             _wheels[1].SteerAngle = angle;
 
-        //    CalculateSpeed();
+            CalculateSpeed();
             ApplyDrive();
 
             AddDownForce();
             CheckForWheelSpin();
         }
-        
+
         private void CalculateSpeed()
         {
             var transform = this.transform;
@@ -119,7 +119,7 @@ namespace Tanks
             _prevPosition = position;
 
             CurrentSpeed = (float)Math.Round((double)distance / Time.deltaTime * c_convertMeterInSecFromKmInH, 1);
-        //    _camera.m_Lens.FieldOfView = Mathf.Lerp(_fov.x, _fov.y, Mathf.InverseLerp(0f, _maxSpeedFOV, CurrentSpeed));
+            _camera.m_Lens.FieldOfView = Mathf.Lerp(_fov.x, _fov.y, Mathf.InverseLerp(0f, _maxSpeedFOV, CurrentSpeed));
         }
 
         private void ApplyDrive()
