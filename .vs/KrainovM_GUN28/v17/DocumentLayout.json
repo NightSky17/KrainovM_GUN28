@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|c:\\users\\maxim\\documents\\krainovm_gun28 (github)\\krainovm_gun28\\assets\\scripts\\tank\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tests\\TestInputController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Tests\\TestInputController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TankController.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tank\\TankController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankController.cs",
+              "ToolTip": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tank\\TankController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAADgv3kAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:24:42.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestInputController.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tests\\TestInputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tests\\TestInputController.cs",
+              "ToolTip": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tests\\TestInputController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tests\\TestInputController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:18:19.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
