@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|c:\\users\\maxim\\documents\\krainovm_gun28 (github)\\krainovm_gun28\\assets\\scripts\\tank\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0D2AD78-C6B7-ED61-9ECB-90714F6D4556}|UnityEngine.UI.csproj|c:\\users\\maxim\\documents\\krainovm_gun28 (github)\\krainovm_gun28\\library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\eventsystem\\inputmodules\\baseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2AD78-C6B7-ED61-9ECB-90714F6D4556}|UnityEngine.UI.csproj|solutionrelative:library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\eventsystem\\inputmodules\\baseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tests\\TestInputController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Tests\\TestInputController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\assets\\scripts\\commons\\audiopool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4E9ED7-56C4-7144-4FBB-B53C0B8266B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\commons\\audiopool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TankController.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tank\\TankController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankController.cs",
-              "ToolTip": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tank\\TankController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankController.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAADgv3kAAAAKAAAA",
+              "Title": "BaseInput.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ToolTip": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwEoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T18:24:42.329Z",
+              "WhenOpened": "2024-11-17T10:21:33.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestInputController.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tests\\TestInputController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Tests\\TestInputController.cs",
-              "ToolTip": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Tests\\TestInputController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Tests\\TestInputController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "AudioPool.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Commons\\AudioPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Commons\\AudioPool.cs",
+              "ToolTip": "C:\\Users\\maxim\\Documents\\krainovm_gun28 (github)\\KrainovM_GUN28\\Assets\\Scripts\\Commons\\AudioPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Commons\\AudioPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T17:18:19.369Z"
+              "WhenOpened": "2024-11-17T10:14:09.991Z"
             }
           ]
         }
