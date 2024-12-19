@@ -1,0 +1,15 @@
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\bin\Debug\net8.0\LogicOper.exe
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\bin\Debug\net8.0\LogicOper.deps.json
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\bin\Debug\net8.0\LogicOper.runtimeconfig.json
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\bin\Debug\net8.0\LogicOper.dll
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\bin\Debug\net8.0\LogicOper.pdb
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\LogicOper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\LogicOper.AssemblyInfoInputs.cache
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\LogicOper.AssemblyInfo.cs
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\LogicOper.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\LogicOper.sourcelink.json
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\LogicOper.dll
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\refint\LogicOper.dll
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\LogicOper.pdb
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\LogicOper.genruntimeconfig.cache
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\LogicOper\LogicOper\obj\Debug\net8.0\ref\LogicOper.dll
