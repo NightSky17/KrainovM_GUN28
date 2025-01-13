@@ -1,0 +1,15 @@
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\StringsAndSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\StringsAndSymbols.AssemblyInfoInputs.cache
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\StringsAndSymbols.AssemblyInfo.cs
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\StringsAndSymbols.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\StringsAndSymbols.sourcelink.json
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\bin\Debug\net8.0\StringsAndSymbols.exe
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\bin\Debug\net8.0\StringsAndSymbols.deps.json
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\bin\Debug\net8.0\StringsAndSymbols.runtimeconfig.json
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\bin\Debug\net8.0\StringsAndSymbols.dll
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\bin\Debug\net8.0\StringsAndSymbols.pdb
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\StringsAndSymbols.dll
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\refint\StringsAndSymbols.dll
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\StringsAndSymbols.pdb
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\StringsAndSymbols.genruntimeconfig.cache
+C:\Users\maxim\Documents\krainovm_gun28 (github)\KrainovM_GUN28\C#\StringsAndSymbols\StringsAndSymbols\obj\Debug\net8.0\ref\StringsAndSymbols.dll
