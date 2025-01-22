@@ -1,0 +1,14 @@
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\bin\Debug\net8.0\GamePrototype.exe
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\bin\Debug\net8.0\GamePrototype.deps.json
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\bin\Debug\net8.0\GamePrototype.runtimeconfig.json
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\bin\Debug\net8.0\GamePrototype.dll
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\bin\Debug\net8.0\GamePrototype.pdb
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\obj\Debug\net8.0\GamePrototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\obj\Debug\net8.0\GamePrototype.AssemblyInfoInputs.cache
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\obj\Debug\net8.0\GamePrototype.AssemblyInfo.cs
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\obj\Debug\net8.0\GamePrototype.csproj.CoreCompileInputs.cache
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\obj\Debug\net8.0\GamePrototype.dll
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\obj\Debug\net8.0\refint\GamePrototype.dll
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\obj\Debug\net8.0\GamePrototype.pdb
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\obj\Debug\net8.0\GamePrototype.genruntimeconfig.cache
+E:\Downloads\Откорректированная версия (22.01.2025)\GamePrototype\obj\Debug\net8.0\ref\GamePrototype.dll

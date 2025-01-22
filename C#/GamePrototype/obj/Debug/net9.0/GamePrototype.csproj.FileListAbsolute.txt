@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\GamePrototype\bin\Debug\net9.0\GamePrototype.exe
+c:\Users\User\Desktop\GamePrototype\bin\Debug\net9.0\GamePrototype.deps.json
+c:\Users\User\Desktop\GamePrototype\bin\Debug\net9.0\GamePrototype.runtimeconfig.json
+c:\Users\User\Desktop\GamePrototype\bin\Debug\net9.0\GamePrototype.dll
+c:\Users\User\Desktop\GamePrototype\bin\Debug\net9.0\GamePrototype.pdb
+c:\Users\User\Desktop\GamePrototype\obj\Debug\net9.0\GamePrototype.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\GamePrototype\obj\Debug\net9.0\GamePrototype.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\GamePrototype\obj\Debug\net9.0\GamePrototype.AssemblyInfo.cs
+c:\Users\User\Desktop\GamePrototype\obj\Debug\net9.0\GamePrototype.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\GamePrototype\obj\Debug\net9.0\GamePrototype.dll
+c:\Users\User\Desktop\GamePrototype\obj\Debug\net9.0\refint\GamePrototype.dll
+c:\Users\User\Desktop\GamePrototype\obj\Debug\net9.0\GamePrototype.pdb
+c:\Users\User\Desktop\GamePrototype\obj\Debug\net9.0\GamePrototype.genruntimeconfig.cache
+c:\Users\User\Desktop\GamePrototype\obj\Debug\net9.0\ref\GamePrototype.dll
