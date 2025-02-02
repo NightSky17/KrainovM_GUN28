@@ -7,8 +7,8 @@ using UnityEngine.SceneManagement;
 public class BattleController : MonoBehaviour
 {
     [SerializeField] private PlayerController playerController;
-    [SerializeField] private TMPro.TextMeshProUGUI debugText;
-    [SerializeField] private TMPro.TextMeshProUGUI restartText;
+    [SerializeField] private UnityEngine.UI.Text debugText;
+    [SerializeField] private UnityEngine.UI.Text restartText;
     private float tabHoldTime = 0f;
     private bool isTabPressed = false;
 
@@ -179,33 +179,33 @@ public class BattleController : MonoBehaviour
         // Обработка зажатия Tab
         if (Input.GetKey(KeyCode.Tab))
         {
-            restartText.transform.position = new Vector2(350.0f, 420f);
+            restartText.transform.position = new Vector2(350.0f, 340f);
 
             if (!isTabPressed)
             {
                 isTabPressed = true;
                 tabHoldTime = 0f;
-                restartText.transform.position = new Vector2(0.0f, -200.0f);
+                restartText.transform.position = new Vector2(0.0f, -400.0f);
             }
             
             tabHoldTime += Time.deltaTime;
             
             if (tabHoldTime >= 3f)
             {
-                restartText.text = "<mark=#ff000000>Перезапуск...</mark>";
+                restartText.text = "Перезапуск...";
                 RestartGame();
             }
             else
             {
                 float remainingTime = 3f - tabHoldTime;
-                restartText.text = $"<mark=#ff000000>Удерживайте TAB для перезапуска ({remainingTime:F1}с)</mark>";
+                restartText.text = $"Удерживайте TAB для перезапуска ({remainingTime:F1}с)";
             }
         }
         else if (Input.GetKeyUp(KeyCode.Tab))
         {
             isTabPressed = false;
             restartText.text = "";
-            restartText.transform.position = new Vector2(350.0f, -420f);
+            restartText.transform.position = new Vector2(0.0f, -400f);
         }
     }
 
@@ -510,9 +510,9 @@ public class BattleController : MonoBehaviour
 
     public void LogMessage(string message)
     {
-        if (debugText != null)
-        {
-            debugText.text = message;
-        }
+         if (debugText != null)
+         {
+             debugText.text = message;
+         }
     }
 }
